@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/Alterra/Alterra.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/Alterra/Alterra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/BangunRuang/BangunRuang.iml" filepath="$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/BangunRuang/BangunRuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic-Java/Basic-Java.iml" filepath="$PROJECT_DIR$/Basic-Java/Basic-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic-Java-Dua/Basic-Java-Dua.iml" filepath="$PROJECT_DIR$/Basic-Java-Dua/Basic-Java-Dua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic-Programming.iml" filepath="$PROJECT_DIR$/.idea/Basic-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/ProgrammerZaman Now/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/ProgrammerZaman Now/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/Alterra/Inheritances/Inheritances.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/Alterra/Inheritances/Inheritances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP/Java-OOP.iml" filepath="$PROJECT_DIR$/Java-OOP/Java-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Dua/Java-OOP-Dua.iml" filepath="$PROJECT_DIR$/Java-OOP-Dua/Java-OOP-Dua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/Java-OOP-Empat.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/Java-OOP-Empat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Tiga/Java-OOP-Tiga.iml" filepath="$PROJECT_DIR$/Java-OOP-Tiga/Java-OOP-Tiga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/BangunDatar/Keliling/Keliling.iml" filepath="$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/BangunDatar/Keliling/Keliling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/BangunDatar/Luas/Luas.iml" filepath="$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/BangunDatar/Luas/Luas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/ProgrammerZaman Now/Overloading/Overloading.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/ProgrammerZaman Now/Overloading/Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/ProgrammerZaman Now/Overriding/Overriding.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/ProgrammerZaman Now/Overriding/Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/Alterra/Tugas/Tugas.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/Alterra/Tugas/Tugas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/Tugas-OOP.iml" filepath="$PROJECT_DIR$/Java-OOP-Tiga/Tugas-OOP/Tugas-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Empat/Alterra/TugasNomor.Empat/TugasNomor.Empat.iml" filepath="$PROJECT_DIR$/Java-OOP-Empat/Alterra/TugasNomor.Empat/TugasNomor.Empat.iml" />
+    </modules>
+  </component>
+</project>
